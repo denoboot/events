@@ -1,0 +1,6 @@
+{
+  "name": "@denoboot/events",
+  "version": "0.0.0",
+  "description": "Event system with features including async support, one-time listeners, and maximum listener limits",
+  "exports": "./mod.ts"
+}
